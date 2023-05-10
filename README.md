@@ -1,0 +1,2 @@
+# CFR_web
+一个使用Django框架和gradio可视化技术的书法体识别网站
